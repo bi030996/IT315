@@ -1,1 +1,13 @@
-
+{
+    "hdVehicles":
+      [
+        {"hdModel":"Accord", "hdYear":"2024", "hdPrice":"$27,895", "hdPerformance":"192 hp", "hdType":"Sedan", "hdMpg":"29 city / 37 highway", "hdDimension":"196″ L x 73″ W x 57″ H", "hdEngine":"1.5 L 4-cylinder", "hdImage":"https://github.com/bi030996/IT315/blob/main/2024Accord.jpg?raw=true", "hdSite":"https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=accord-sedan&modelyear=2024"},
+        {"hdModel":"Civic", "hdYear":"2024", "hdPrice":"$23,950", "hdPerformance":"158 to 180 hp", "hdType":"Sedan", "hdMpg":"33 city / 42 highway", "hdDimension":"179-184″ L x 71″ W x 56″ H", "hdEngine":"1.5 L 4-cylinder", "hdImage":"https://github.com/bi030996/IT315/blob/main/2024Civic.jpg", "hdSite":"https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=civic-sedan&modelyear=2024"},
+        {"hdModel":"CR-V", "hdYear":"2024", "hdPrice":"$29,500", "hdPerformance":"190 hp", "hdType":"SUV", "hdMpg":"28 city / 34 highway", "hdDimension":"185″ L x 74″ W x 66-67″ H", "hdEngine":"1.5 L 4-cylinder", "hdImage":"https://github.com/bi030996/IT315/blob/main/2024CRV.jpg", "hdSite":"https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=cr-v&modelyear=2024"},
+        {"hdModel":"Pilot", "hdYear":"2024", "hdPrice":"$37,090", "hdPerformance":"285 hp", "hdType":"SUV", "hdMpg":"19 city / 27 highway", "hdDimension":"200″ L x 79″ W x 71-72″ H", "hdEngine":"3.5L V6", "hdImage":"https://github.com/bi030996/IT315/blob/main/2024Pilot.jpg", "hdSite":"https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=pilot&modelyear=2025"},
+        {"hdModel":"Odyssey", "hdYear":"2024", "hdPrice":"$38,240", "hdPerformance":"280 hp", "hdType":"Minivan", "hdMpg":"19 city / 28 highway", "hdDimension":"205″ L x 79″ W x 70″ H", "hdEngine":"3.5L V6", "hdImage":"https://github.com/bi030996/IT315/blob/main/2024Odyssey.jpg", "hdSite":"https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=odyssey&modelyear=2024"},
+        {"hdModel":"Ridgeline", "hdYear":"2024", "hdPrice":"$39,750", "hdPerformance":"280 hp", "hdType":"Pickup Truck", "hdMpg":"18 city / 28 highway", "hdDimension":"210″ L x 79″ W x 71″ H", "hdEngine":"3.5L V6", "hdImage":"https://github.com/bi030996/IT315/blob/main/2024RidgeLine.jpg", "hdSite":"https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=ridgeline&modelyear=2024"}
+      ],
+    "Status":"OK"
+  }
+  
